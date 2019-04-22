@@ -1,0 +1,10 @@
+/public/uploads
+/storage/*.key
+/vendor
+.env
+/mschat_api/storage
+/mschat_api/vendor
+/mschat_api/.idea
+/mschat_api/Homestead.json
+/mschat_api/Homestead.yaml
+/mschat_api/.env
