@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ms_chat.oauth_refresh_tokens"},{"v":2,"unique":true,"key":{"id":1},"name":"id_1","ns":"ms_chat.oauth_refresh_tokens"},{"v":2,"key":{"access_token_id":1},"name":"access_token_id_1","ns":"ms_chat.oauth_refresh_tokens"}],"uuid":"c37f052776854add8ebe04d3e382b9f8"}
